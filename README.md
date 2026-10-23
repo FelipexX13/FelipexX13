@@ -13,7 +13,7 @@ n8n workflow that answers support tickets for an online store. A local AI agent 
 `n8n` `Ollama` `Llama 3.1` `AI agents` `webhooks`
 
 ### AI voice receptionist · *internship at Develovers Group, in production*
-Voice agent that answers hotel guests and checks room availability 24/7 using Gemini function calling. Live at a hotel in Melgar, Colombia.
+Voice agent that answers hotel guests 24/7 and checks room availability with Gemini function calling against the hotel's PMS, which I built with a teammate. Live at a hotel in Melgar, Colombia, handling 100+ conversations a month.
 
 `Gemini API` `function calling` `Web Speech API`
 
@@ -37,8 +37,8 @@ Local tool that turns about 1,100 inventory photos stored in Google Drive folder
 
 `Python (standard library)` `HTML/JS`
 
-### QR menu SaaS · *internship at Develovers Group, in production*
-Multi-tenant QR menus: every table orders at once, without a waiter, and orders reach the kitchen in real time.
+### QR menu SaaS · *internship at Develovers Group*
+Multi-tenant QR menus I built on my own: every table orders at once, without a waiter, and orders reach the kitchen in real time.
 
 `Next.js` `Socket.IO`
 
@@ -51,7 +51,7 @@ Multi-tenant QR menus: every table orders at once, without a waiter, and orders 
 
 ## Also
 
-- 53rd nationally at Colombia's ACIS-REDIS National Programming Marathon 2026 (71st in 2025).
+- 55th of 111 teams at Colombia's ACIS-REDIS National Programming Marathon 2026 (70th of 115 in 2025).
 - Data Science exchange semester at Montanuniversität Leoben, Austria, taught in English.
 - Teaching assistant for object-oriented programming and numerical methods: weekly workshops for 100+ students, plus a [Java and Eclipse setup tutorial](https://www.youtube.com/watch?v=StTwsLh5DkA) (in Spanish).
 
