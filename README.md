@@ -7,7 +7,7 @@ Final-semester Systems Engineering student (GPA 4.74/5.0) who builds generative 
 
 ## Featured work
 
-### Support agent with n8n + Ollama
+### Support agent with n8n + Ollama · [code](https://github.com/FelipexX13/automatizacion-n8n)
 n8n workflow that answers support tickets for an online store. A local AI agent (Llama 3.1 on Ollama) uses tools to look up orders and the FAQ, and a second step classifies each ticket by category and priority as JSON. It replies in 1 to 3 seconds per ticket on a GPU, with no paid APIs.
 
 `n8n` `Ollama` `Llama 3.1` `AI agents` `webhooks`
@@ -18,11 +18,11 @@ Voice agent that answers hotel guests and checks room availability 24/7 using Ge
 `Gemini API` `function calling` `Web Speech API`
 
 ### Google Reseñas: QR + NFC review cards · *my own business, co-founder*
-Cards that take customers straight to a business's Google review box; the destination lives in the cloud, so it changes without reprinting. The admin panel automates orders, inventory, partner accounts, seller commissions and NFC chip writing from Android. 17 businesses are clients so far.
+Cards that take customers straight to a business's Google review box; the destination lives in the cloud, so it changes without reprinting. The admin panel automates orders, inventory, partner accounts, seller commissions and NFC chip writing from Android. 17 businesses are clients so far. The review link generator is public: [code](https://github.com/FelipexX13/links-resena).
 
 `Cloudflare Workers` `KV` `JavaScript` `Web NFC`
 
-### CriptSubs
+### CriptSubs · [code](https://github.com/FelipexX13/cript-subs)
 Live transcription of system audio or the microphone, with AI notes and a final summary. Everything runs locally, so nothing leaves the PC, and it summarizes in chunks to handle meetings that last hours.
 
 `Python` `faster-whisper (CUDA)` `Ollama` `Qwen 2.5`
@@ -32,7 +32,7 @@ A vertical, TikTok-style feed to practice IELTS Writing: connectors, synonyms, T
 
 `HTML` `CSS` `JavaScript` `GitHub Pages`
 
-### Garment photo viewer
+### Garment photo viewer · [code](https://github.com/FelipexX13/visor-prendas)
 Local tool that turns about 1,100 inventory photos stored in Google Drive folders into one scrollable wall to spot duplicates. It also renames size folders and files new photos from Downloads, with undo.
 
 `Python (standard library)` `HTML/JS`
